@@ -1,6 +1,6 @@
 # Hello there 👋, I'm [Pete](mailto:peterspellingbee@gmail.com) (he/him)!
 
-[![Linkedin: peterpcao](https://img.shields.io/badge/-Hey,listen!-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/peterpcao/)](https://www.linkedin.com/in/peterpcao/)**** ![Twitter Follow](https://img.shields.io/twitter/follow/peter_p_cao?style=social) ![](https://komarev.com/ghpvc/?username=petecao&color=blueviolet)
+[![Linkedin: peterpcao](https://img.shields.io/badge/-Hey,listen!-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/peterpcao/)](https://www.linkedin.com/in/peterpcao/) ![Twitter Follow](https://img.shields.io/twitter/follow/peter_p_cao?style=social) ![](https://komarev.com/ghpvc/?username=petecao&color=blueviolet)
 
 currently doing CS and Physics @ Cornell c/o 2024. fascinated with programming languages, quantum computing, and algorithms.
 
